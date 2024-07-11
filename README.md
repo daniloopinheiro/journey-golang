@@ -1,22 +1,40 @@
-# Nome do Projeto
-
-Breve descrição do projeto aqui.
-
-Inclua uma ou duas frases descrevendo o propósito e o objetivo do seu software.
+# Journey GoLang
+---
+ 
+*API para Planejamento de Viagens.
+API para planejamento de viagens oferece uma plataforma robusta e flexível para facilitar a organização e gestão de viagens pessoais ou corporativas. Projetada para ser intuitiva e eficiente, permite aos usuários criar, visualizar e gerenciar detalhes essenciais de suas viagens de forma conveniente através de endpoints RESTful.*
 
 ## Índice
 
-1. [Visão Geral](#visão-geral)
-2. [Instalação](#instalação)
-3. [Como Usar](#como-usar)
-4. [Configuração](#configuração)
-5. [Contribuições](#contribuições)
-6. [Licença](#licença)
-7. [Contato](#contato)
+- [Journey GoLang](#journey-golang)
+  - [Índice](#índice)
+  - [Visão Geral](#visão-geral)
+    - [Principais Recursos:](#principais-recursos)
+  - [Instalação](#instalação)
+  - [Como Usar](#como-usar)
+  - [Configuração](#configuração)
+  - [Contribuições](#contribuições)
+  - [Contato](#contato)
+  - [Licença](#licença)
 
 ## Visão Geral
 
-Breve explicação sobre o que é o seu software e por que ele é útil. Inclua talvez uma visão geral de seus recursos principais ou funcionalidades distintas.
+### Principais Recursos:
+
+1. **Criação de Viagens Personalizadas**:
+   - Os usuários podem criar novas viagens especificando origem, destino, data de partida, data de retorno, além de detalhes adicionais como descrição e notas relevantes.
+
+2. **Gerenciamento de Itinerários**:
+   - Facilita o planejamento detalhado através da organização de itinerários diários, incluindo horários de partida e chegada, atividades planejadas, reservas de hotéis e transporte.
+
+3. **Integração com Serviços de Terceiros**:
+   - Integração fluida com APIs de serviços de mapas, previsão do tempo e reservas de voos, hotéis e carros, para fornecer informações atualizadas e relevantes durante o processo de planejamento.
+
+4. **Autenticação e Autorização Seguras**:
+   - Garante a segurança dos dados com autenticação robusta e controle de acesso granular, protegendo informações sensíveis e garantindo conformidade com regulamentações de privacidade.
+
+5. **Personalização e Extensibilidade**:
+   - Adapta-se às necessidades específicas dos usuários e organizações através de endpoints configuráveis e capacidade de extensão com novos recursos e funcionalidades.
 
 ## Instalação
 
